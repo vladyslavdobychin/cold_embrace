@@ -8,5 +8,6 @@ public class CameraFollow : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start() => offset = transform.position - target.position;
 
+    // Git test
     void LateUpdate() => transform.position = target.position + offset;
 }
