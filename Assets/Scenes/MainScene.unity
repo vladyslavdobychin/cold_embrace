@@ -477,8 +477,8 @@ GameObject:
   - component: {fileID: 1128482553}
   - component: {fileID: 1128482551}
   - component: {fileID: 1128482550}
-  m_Layer: 0
-  m_Name: Capsule
+  m_Layer: 6
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -661,7 +661,7 @@ GameObject:
   - component: {fileID: 1804413098}
   - component: {fileID: 1804413097}
   - component: {fileID: 1804413096}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
